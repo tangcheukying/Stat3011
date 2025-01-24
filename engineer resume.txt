@@ -1,0 +1,18 @@
+Experience
+
+1. Designed and implemented structural analysis simulations using Finite Element Analysis (FEA) software.
+2. Developed automated control systems for manufacturing processes utilizing PLC programming.
+3. Conducted thermal and fluid dynamics simulations using Computational Fluid Dynamics (CFD) tools.
+4. Led a team in the design and optimization of renewable energy systems, focusing on solar and wind energy integration.
+5. Managed projects involving the development of mechanical components, ensuring compliance with industry standards.
+
+Additional Skills
+
+1. Proficient in CAD software (e.g., AutoCAD, SolidWorks) for creating detailed engineering designs.
+2. Strong understanding of materials science, including properties and applications of various materials.
+3. Experience with programming languages such as MATLAB and Python for data analysis and simulations.
+4. Knowledge of control systems design and implementation, including PID control strategies.
+5. Familiarity with project management methodologies (e.g., Agile, Lean) to enhance project efficiency.
+6. Skilled in conducting reliability engineering analyses and failure mode effects analysis (FMEA).
+7. Proficient in using data analysis tools (e.g., Excel, MATLAB) for engineering data processing.
+8. Experience with system modeling and simulation using tools like Simulink and ANSYS.
