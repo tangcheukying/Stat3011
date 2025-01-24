@@ -1,0 +1,32 @@
+PROFESSIONAL EXPERIENCE
+Resume Worded, New York, NY
+2020-Present
+Software Engineer • Created an invoicing system for subscription services that managed monthly invoices and
+printed invoices to be sent to customers; increased conversion rate by 15%. • Collaborated with internal teams, including graphic design and QA testers to develop and
+launch a new application in just 6 months, ahead of schedule by 6 months. • Wrote reusable unit test documents to ensure quality control and detect bugs by increasing
+over 35% efficiency rate.
+Growthsi, San Diego, CA
+2016 - 2020
+Software Engineer • Analyzed information to determine, recommend and plan redesign of a new API; presented
+outputs to CTO.. • Analyzed user needs and software requirements to determine feasibility of design, ensuring
+project completion 3 weeks prior to targeted due date.
+• Released and updated 15+ custom .net applications for company clients in health niches. • Wrote Python and JavaScript libraries to display real time pricing via SkyScanner's flights
+pricing API, leading to increased customer satisfaction.
+• Tip to jobseeker: Bullet points should be in format [Action Verb] [Accomplishment] [Metric];
+e.g. Developed × that led to v% improvement
+Rofocus, New York, NY
+2012 - 2016
+Front-end Developer
+• Implemented a new responsive website approach increasing mobile traffic by 22%. • Partnered with back-end developers and created dynamic web pages using Javascript,
+resulting in website leads increase by 15%. • Collaborated on APIs and managed software workflow using Scrum methodology,
+increasing task success rate by 25%. • Tip to jobseeker: Bullet points should be in format [Action Verb [Accomplishment] [Metric:
+e.g. Developed × that led to % improvement
+EDUCATION
+Resume Worded University, San Francisco, CA
+2012
+Bachelor of Electrical Engineering
+• Awards: Resume Worded Teaching Fellow (only 5 awarded to class), Dean's List 2012 (Top 10%)
+• Completed one-year study abroad with Singapore University
+SKILLS & OTHER Skills: CSS, Javascript, Python, Advanced SAP, HTML and XML, Scrum Methodology, Database
+management software, Software Development Life Cycle Volunteering: Volunteered as Junior Developer in iOS hotel booking application launch proiect for 3-
+months (2020).
