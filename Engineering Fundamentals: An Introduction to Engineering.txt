@@ -1,0 +1,456 @@
+Table of Contents
+
+COVER PAGE
+TITLE PAGE
+COPYRIGHT PAGE
+PREFACE
+ACKNOWLEDGMENTS
+DIGITAL RESOURCES
+
+PART 1. ENGINEERING
+
+Chapter 1. Introduction to the Engineering Profession
+1.1. Engineering Work Is All Around You
+Engineers Deal with an Increasing World Population and Sustainability Concerns
+1.2. Engineering as a Profession
+What Is Engineering and What Do Engineers Do?
+1.3. Common Traits of Good Engineers
+1.4. Engineering Disciplines
+What Are Some Areas of Engineering Specialization?
+Accreditation Board for Engineering and Technology
+Professional Engineer
+Engineering Technology
+Summary
+Key Terms
+Problems
+
+Chapter 2. Preparing for an Engineering Career
+2.1. Making the Transition from High School to College
+2.2. Budgeting Your Time
+2.3. Study Habits and Strategies
+Attend Your Classes Regularly
+2.4. Getting Involved with an Engineering Organization
+2.5. Your Graduation Plan
+Other Considerations
+Summary
+Key Terms
+
+Chapter 3. Introduction to Engineering Design
+3.1. Engineering Design Process
+Step 1: Recognizing the Need for a Product or a Service
+Step 2: Problem Definition and Understanding
+Step 3: Research and Preparation
+Step 4: Conceptualization
+Step 5: Synthesis
+Step 6: Evaluation
+Step 7: Optimization
+Step 8: Presentation
+Civil Engineering Design Process
+3.2. Additional Design Considerations
+Sustainability in Design
+The Earth Charter
+Key Sustainability Assessment: Life-Cycle Analysis
+Engineering Economics
+Material Selection
+Patent, Trademark, and Copyright
+3.3. Teamwork
+Common Traits of Good Teams
+Conflict Resolution
+3.4. Project Scheduling and the Task Chart
+3.5. Engineering Standards and Codes
+Why Do We Need Standards and Codes?
+Examples of Standards and Codes Organizations in the United States
+Examples of International Standards and Codes
+3.6. Water and Air Standards in the United States
+Drinking Water
+Outdoor Air
+Indoor Air
+Methods to Manage Contaminants
+Summary
+Key Terms
+Problems
+
+Chapter 4. Engineering Communication
+4.1. Communication Skills and Presentation of Engineering Work
+4.2. Basic Steps Involved in the Solution of Engineering Problems
+Step 1: Defining the Problem
+Step 2: Simplifying the Problem
+Step 3: Performing the Solution or Analysis
+Step 4: Verifying the Results
+Homework Presentation
+4.3. Written Communication
+Progress Report
+Executive Summary
+Short Memos
+Detailed Technical Report
+4.4. Oral Communication
+4.5. Graphical Communication
+Summary
+Key Terms
+Problems
+
+Chapter 5. Engineering Ethics
+5.1. Engineering Ethics
+5.2. The Code of Ethics of the National Society of Professional Engineers
+Code of Ethics for Engineers
+5.3. Engineer’s Creed
+5.4. Academic Dishonesty, Conflict of Interest, Professional Responsibility
+2012 Milton F. Lunch Ethics Contest
+2013 Milton F. Lunch Ethics Contest
+Confidentiality of Engineering Report: Case No. 82-2
+Gift Sharing of Hotel Suite: Case No. 87-4
+Credit for Engineering Work-Design Competition: Case No. 92-1
+Services—Same Services for Different Clients: Case No. 00-3
+Use of Alleged Hazardous Material in a Processing Facility: Case No. 99-11
+Software Design Testing: Case No. 96-4
+Whistleblowing: Case No. 82-5
+Academic Qualifications: Case No. 79-5
+Advertising–Misstating Credentials: Case No. 92-2
+Advertising–Statement of Project Success: Case No. 79-6
+Using Technical Proposal of Another Without Consent: Case No. 83-3
+Use of CD-ROM for Highway Design: Case No. 98-3
+Summary
+Key Terms
+Problems
+
+Appendix 5A
+
+PART 2. ENGINEERING FUNDAMENTALS
+
+Chapter 6. Fundamental Dimensions and Systems of Units
+6.1. Fundamental Dimensions and Units
+6.2. Systems of Units
+International System (SI) of Units
+British Gravitational System of Units
+U.S. Customary System of Units
+6.3. Unit Conversion and Dimensional Homogeneity
+Unit Conversion
+Dimensional Homogeneity
+Numerical versus Symbolic Solutions
+6.4. Significant Digits (Figures)
+Addition and Subtraction Rules
+6.5. Components and Systems
+6.6. Physical Laws and Observations
+Learning Engineering Fundamental Concepts and Design Variables from Fundamental Dimensions
+Summary
+Key Terms
+Problems
+
+Chapter 7. Length and Length-Related Variables in Engineering
+7.1. Length as a Fundamental Dimension
+Measurement and Calculation of Length
+Nominal Sizes versus Actual Sizes
+7.2. Ratio of Two Lengths—Radians and Strain
+Radians as a Ratio of Two Lengths
+Strain as a Ratio of Two Lengths
+7.3. Area
+Area Calculations and Measurement
+Approximation of Planar Areas
+7.4. Volume
+Volume Calculations
+7.5. Second Moment of Area
+Summary
+Key Terms
+Problems
+
+Chapter 8. Time and Time-Related Variables in Engineering
+8.1. Time as a Fundamental Dimension
+8.2. Measurement of Time
+The Need for Time Zones
+Daylight Saving Time
+8.3. Periods and Frequencies
+8.4. Flow of Traffic
+8.5. Engineering Variables Involving Length and Time
+Linear Velocities
+Linear Accelerations
+Volume Flow Rate
+Angular Motion
+Summary
+Key Terms
+Problems
+
+Chapter 9. Mass and Mass-Related Variables in Engineering
+9.1. Mass as a Fundamental Dimension
+Measurement of Mass
+9.2. Density, Specific Weight, Specific Gravity, and Specific Volume
+9.3. Mass Flow Rate
+9.4. Mass Moment of Inertia
+Disk
+9.5. Momentum
+Kinetic Energy
+9.6. Conservation of Mass
+Summary
+Key Terms
+Problems
+
+Chapter 10. Force and Force-Related Variables in Engineering
+10.1. Force
+Tendencies of a Force
+Units of Force
+Spring Forces and Hooke’s Law
+Friction Forces—Dry Friction and Viscous Friction
+10.2. Newton’s Laws in Mechanics
+What We Mean by Mechanics
+Newton’s First Law
+Newton’s Second Law
+Newton’s Third Law
+Newton’s Law of Gravitation
+10.3. Moment, Torque—Force Acting at a Distance
+External Force, Internal Force, Reaction Force
+Boundary and Initial Conditions
+10.4. Work—Force Acting Over a Distance
+10.5. Pressure and Stress—Force Acting Over an Area
+Common Units of Pressure
+Pascal’s Law
+Atmospheric Pressure
+Absolute Pressure and Gauge Pressure
+Vapor Pressure of a Liquid
+Hydraulic Systems
+Stress
+Modulus of Elasticity, Modulus of Rigidity, and Bulk Modulus of Compressibility
+Bulk Modulus of Compressibility
+10.6. Linear Impulse—Force Acting Over Time
+Summary
+Key Terms
+Problems
+
+Chapter 11. Temperature and Temperature-Related Variables in Engineering
+11.1. Temperature as a Fundamental Dimension
+Measurement of Temperature and Its Units
+Absolute Zero Temperature
+11.2. Temperature Difference and Heat Transfer
+Conduction
+Thermal Resistance
+Convection
+Radiation
+11.3. Thermal Comfort
+11.4. Heating Values of Fuels
+11.5. Degree Days and Energy Estimation
+11.6. Additional Temperature-Related Material Properties
+Thermal Expansion
+Specific Heat
+Summary
+Key Terms
+Problems
+
+Chapter 12. Electric Current and Related Variables in Engineering
+12.1. Electric Current, Voltage, and Electric Power
+Electric Current as a Fundamental Dimension
+Voltage
+Direct Current and Alternating Current
+Kirchhoff’s Current Law
+12.2. Electrical Circuits and Components
+Ohm’s Law
+The American Wire Gauge (AWG)
+Electric Power
+Series Circuit
+Parallel Circuit
+Capacitors
+12.3. Electric Power Sources
+Batteries
+Residential Power Distribution
+12.4. Electric Motors
+Motor Type
+Duty Cycle
+12.5. Lighting Systems
+Lighting System Audit
+Summary
+Key Terms
+Problems
+
+Chapter 13. Energy and Power
+13.1. Work, Mechanical Energy, and Thermal Energy
+Kinetic Energy
+Potential Energy
+Elastic Energy
+Thermal Energy Units
+13.2. Conservation of Energy
+Conservation of Mechanical Energy
+First Law of Thermodynamics
+13.3. Power
+Watts and Horsepower
+13.4. Efficiency
+Power Plant Efficiency
+Internal Combustion Engine Efficiency
+Motor and Pump Efficiency
+Efficiency of Heating, Cooling, and Refrigeration Systems
+13.5. Energy Sources, Generation, and Consumption
+Coal
+Natural Gas
+Heating Oil
+Nuclear Energy
+Hydro-Energy
+Impoundment
+Diversion
+Pumped Storage Hydropower
+Solar Energy
+Solar Systems
+Passive Solar Systems
+Photovoltaic Systems
+Wind Energy
+Biomass
+Wood
+Algae
+Ethanol
+Summary
+Key Terms
+Problems
+
+PART 3. COMPUTATIONAL ENGINEERING TOOLS
+
+Chapter 14. Computational Engineering Tools Electronic Spreadsheets
+14.1. Microsoft Excel Basics
+Naming Worksheets
+Cells and Their Addresses
+A Range
+Inserting Cells, Columns, and Rows
+Creating Formulas in Excel
+Absolute Cell Reference, Relative Cell Reference, and Mixed Cell Reference
+14.2. Excel Functions
+The Now and Today Functions
+Using Excel Logical Functions
+14.3. Plotting with Excel
+Plotting Two Sets of Data with Different Ranges on the Same Chart
+Curve Fitting with Excel
+14.4. Matrix Computation with Excel
+Matrix Algebra
+14.5. An Introduction to Excel’s Visual Basic for Applications
+A Simple VBA Code
+Using Excel Functions in VBA
+Learning by Recording Macros
+VBA’S Object-Oriented Syntax
+An Example of a for Loop
+A Custom-Made Dialog Box
+Summary
+Key Terms
+Problems
+
+Chapter 15. Computational Engineering Tools MATLAB
+15.1. MATLAB Basics
+The format, disp, and fprintf Commands
+Saving Your MATLAB Workspace
+Generating a Range of Values
+Creating Formulas in MATLAB
+Element-by-Element Operation
+Matrix Operations
+15.2. MATLAB Functions, Loop Control, and Conditional Statements
+Loop Control—The for and while Commands
+Using MATLAB Logical and Relational Operators
+The Conditional Statements—if, else
+The M-File
+15.3. Plotting with MATLAB
+Importing Excel and Other Data Files into MATLAB
+15.4. Matrix Computations with MATLAB
+Curve Fitting with MATLAB
+15.5. Symbolic Mathematics with MATLAB
+Solutions of Simultaneous Linear Equations
+Summary
+Key Terms
+Problems
+
+PART 4. ENGINEERING GRAPHICAL COMMUNICATION
+
+Chapter 16. Engineering Drawings and Symbols
+16.1. Mechanical Drawings
+Orthographic Views
+Dimensioning and Tolerancing
+Isometric View
+Sectional Views
+16.2. Civil, Electrical, and Electronic Drawings
+16.3. Solid Modeling
+16.4. Engineering Symbols
+Examples of Common Symbols in Civil, Electrical, and Mechanical Engineering
+Summary
+Key Terms
+Problems
+
+PART 5. ENGINEERING MATERIAL SELECTION
+
+Chapter 17. Engineering Materials
+17.1. Material Selection and Origin
+Earth—Our Home
+17.2. The Properties of Materials
+Electrical Resistivity
+17.3. Metals
+Lightweight Metals
+Copper and Its Alloys
+Iron and Steel
+17.4. Concrete
+17.5. Wood, Plastics, Silicon, Glass, and Composites
+Wood
+Plastics
+Silicon
+Glass
+Composites
+17.6. Fluid Materials: Air and Water
+Air
+Water
+Summary
+Key Terms
+Problems
+
+PART 6. MATHEMATICS, STATISTICS, AND ENGINEERING ECONOMICS
+
+Chapter 18. Mathematics in Engineering
+18.1. Mathematical Symbols and Greek Alphabet
+The Greek Alphabet and Roman Numerals
+18.2. Linear Models
+A Linear Spring
+Linear Equations and Slopes
+Linear Interpolation
+Systems of Linear Equations
+18.3. Nonlinear Models
+Polynomial Functions
+18.4. Exponential and Logarithmic Models
+The Cooling of Steel Plates
+Logarithmic Functions
+18.5. Matrix Algebra
+Basic Definitions
+Matrix Addition or Subtraction
+Matrix Multiplication
+Transpose of a Matrix
+Determinant of a Matrix
+Solutions of Simultaneous Linear Equations
+Inverse of a Matrix
+18.6. Calculus
+Differential Calculus
+Integral Calculus
+18.7. Differential Equations
+Summary
+Key Terms
+Problems
+
+Chapter 19. Probability and Statistics in Engineering
+19.1. Probability—Basic Ideas
+19.2. Statistics—Basic Ideas
+19.3. Frequency Distributions
+Cumulative Frequency
+19.4. Measures of Central Tendency and Variation—Mean, Median, and Standard Deviation
+19.5. Normal Distribution
+Summary
+Key Terms
+Problems
+
+Chapter 20. Engineering Economics
+20.1. Cash Flow Diagrams
+20.2. Simple and Compound Interest
+Compound Interest
+20.3. Future Worth of a Present Amount and Present Worth of a Future Amount
+Present Worth of a Future Amount
+20.4. Effective Interest Rate
+20.5. Present and Future Worth of Series Payment
+Future Worth of Series Payment
+20.6. Interest–Time Factors
+20.7. Choosing the Best Alternatives—Decision Making
+Present Worth or Present Cost Analysis
+20.8. Excel Financial Functions
+Bonds
+Depreciation
+Life-Cycle Cost
+Summary
+Key Terms
+Problems
+APPENDIX
+CONVERSION FACTORS
+
+
